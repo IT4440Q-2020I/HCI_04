@@ -7,10 +7,10 @@ Trường Đại học Bách Khoa Hà Nội
 
 
 Thành viên nhóm:
-HCI_04 20148981 Đoàn Đức Bảo
-HCI_04 20168174 Hoàng Công Hậu
-HCI_04 20168073 Lê Quang Dũng
-HCI_01 20168031 Trần Quang Anh
+	HCI_04 20148981 Đoàn Đức Bảo
+	HCI_04 20168174 Hoàng Công Hậu
+	HCI_04 20168073 Lê Quang Dũng
+	HCI_01 20168031 Trần Quang Anh
 
 Hướng dẫn chạy chương trình
 Clone repo này về máy.
